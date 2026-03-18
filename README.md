@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Churls
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Godot
-- 💞️ I’m looking to collaborate on ... Whatever
-- 📫 How to reach me ... I dont know
+I’m interested in ... Coding/Cybersecurity
+I’m currently learning ... Godot
+
 
 <!---
 Churls/Churls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
